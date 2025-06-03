@@ -63,7 +63,7 @@ python main.py
 
 ## Uso
 
-O sistema permite escolher entre três opções ações:
+O sistema permite escolher entre três opções de ações:
 ```python
 1. Testar com dados de arquivo
 2. Testar com dados gerados
@@ -110,4 +110,4 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ## Releases
 
-- Release v1.0✅ - [Release v1.0.0](https://github.com/LiedsonLB/gregory_newton/releases)
+- Release v1.0.0 ✅ - [Release v1.0.0](https://github.com/LiedsonLB/gregory_newton/releases/tag/v1.0.0)
